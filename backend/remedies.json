@@ -1,0 +1,23 @@
+{
+    "Late Blight": {
+        "actions": [
+            "Remove infected leaves",
+            "Apply fungicide",
+            "Avoid overhead watering"
+        ]
+    },
+    "Leaf Spot": {
+        "actions": [
+            "Remove infected leaves",
+            "Apply copper-based fungicide",
+            "Keep foliage dry"
+        ]
+    },
+    "Early Blight": {
+        "actions": [
+            "Prune affected areas",
+            "Use appropriate fungicides",
+            "Avoid wetting leaves when watering"
+        ]
+    }
+}
